@@ -300,6 +300,10 @@
         "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\android projects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_song_detail.xml.flat",
+        "source": "D:\\android projects\\SongDetail\\app\\src\\main\\res\\layout\\fragment_song_detail.xml"
+    },
+    {
         "merged": "D:\\android projects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\1a409c29167dda47cc968db8f2071dc4\\res\\layout\\notification_template_part_time.xml"
     },
